@@ -1,0 +1,26 @@
+
+> react-sidenav@0.1.0 build
+> react-scripts build --output-dir C:\Users\DC253~1.DER\AppData\Local\Temp\chromatic--15040-Y83PFXvSBviK
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  75.2 kB  build\static\js\main.cfa6a358.js
+  1.78 kB  build\static\js\787.8baaeba7.chunk.js
+  407 B    build\static\css\main.6c69f413.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
